@@ -1,0 +1,13 @@
+name: commandsmart
+description: Gerenciador de comandos.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  http: ^0.13.3
+  fluttertoast: ^8.0.9
+  flutter_svg: ^1.0.3
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
